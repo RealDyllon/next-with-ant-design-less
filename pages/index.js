@@ -12,7 +12,7 @@ const App = () => (
     <div>Home Page</div>
     <Title>Nextjs with Ant Design & Less</Title>
     <Text>
-      Go ahead edit <code>/pages/index.js</code> as see your changes here
+      Go ahead and edit <code>/pages/index.js</code>, and see your changes here
     </Text>
     <Divider />
     <Title level={2}>Useful Links</Title>
