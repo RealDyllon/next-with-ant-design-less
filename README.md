@@ -2,13 +2,17 @@
 
 This Next.js template has [Ant Design of React](http://ant.design) preinstalled and preconfigured, with less support. 
 
+Demo: [https://next-with-ant-design-less.now.sh/](https://next-with-ant-design-less.now.sh/)
+
 ## How to use
 
 1. Fork the repo.
 
 2. Clone your fork.
 
-3. `yarn install`
+3. Run `yarn install`
+
+4. Run `next`
 
 ## More info
 
