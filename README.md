@@ -20,7 +20,7 @@ It's a standard next.js app. Refer to antd docs on component use, setup works ou
 
 Less file is present in `/assets/antd-custom.less`
 
-Ant Design Less theming docs are [here](https://github.com/ant-design/ant-design/blob/master/components/style/themes/default.less)
+Ant Design Less theming docs are [here](https://github.com/ant-design/ant-design/blob/master/components/style/themes/default.less).
 
 ## Pull Requests
 
