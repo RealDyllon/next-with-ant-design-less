@@ -1,6 +1,6 @@
 # Next.js App with Ant Design and Less Template
 
-This Next.js template has [Ant Design of React](http://ant.design) preinstalled and preconfigured, with less support. 
+This Next.js template has [Ant Design of React](http://ant.design) preinstalled and preconfigured, with less support.
 
 Demo: [https://next-with-ant-design-less.now.sh/](https://next-with-ant-design-less.now.sh/)
 
